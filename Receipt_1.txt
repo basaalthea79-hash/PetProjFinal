@@ -1,0 +1,18 @@
+PAWCARE GROOMING
+Appointment Receipt
+
+Appointment #: 1
+Schedule: 2026-10-28 at 09:00 AM
+Status: Scheduled
+Owner: Althea
+Contact: 09053457899
+Pet: Nyeti (Dog, 10 kg, 1 yrs) - Medium
+Notes: 
+
+Full Groom (Bath + Haircut) : P 600
+Size surcharge (Medium dog) : P 100
+Teeth Brushing : P 120
+Ear Cleaning : P 100
+
+TOTAL: P 920
+THANK YOU!

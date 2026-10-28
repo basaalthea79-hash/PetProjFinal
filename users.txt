@@ -1,0 +1,3 @@
+ADMIN|A001|System Admin|admin|admin123|0|false
+CUSTOMER|C1|Althea|thea|thea123|09053257010|552|0|false
+ADMIN|A-Admin2|Admin2|Admin2|newadmin|0|false

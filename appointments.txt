@@ -1,0 +1,4 @@
+2||Juan Dela Cruz|09170000002|Cat|Mingming|4|2|Full Groom (Bath + Haircut)||2026-10-28|10:00 AM|Scheduled|Sample booking
+3||Ana Reyes|09170000003|Dog|Buddy|12|4|De-shedding Treatment||2026-10-28|11:00 AM|Scheduled|Sample booking
+4||Carlo Garcia|09170000004|Rabbit|Snow|2|1|Spa Package||2026-10-28|01:00 PM|Scheduled|Sample booking
+5||Liza Ramos|09170000005|Cat|Luna|5|3|Basic Bath||2026-10-28|02:00 PM|Scheduled|Sample booking
